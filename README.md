@@ -1,6 +1,6 @@
-#http://fahadkamraan.me
+# fahadkmaraan.me
 
-# S-FK.github.io
+#S-FK.github.io
 
 Hey Guys!! my personal website is available at http://fahadkamraan.me
 
