@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://s-fk.github.io/sitemap.xml
+Host: https://s-fk.github.io
