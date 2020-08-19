@@ -1,19 +1,21 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: './cover.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
+  - Python
+  - JavaScript
   - React
-  - Vue
-  - Node.js
-  - WordPress
+  - React Native
+  - Node
+  - Express
+  - C/ C++
+  - Java (not so much)
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hey there! I am Fahad Kamraan, a **Full-Stack Developer and Entreprenuer**.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I like building products which people want and like. I find pleasure in untagling the myths and facts of the world and the human mind, I get amazed by things which require **_Un Coventional_** thinking and often with constraints.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+A Fun Fact, I have authored two **_Research Papers_** in the field of IoT and AI, which have been published in IEEE and Others. I am professional cricketer and have played at the **_Domestic_** level in the cricket crazy nation, India.
 
-Here are a few technologies I've been working with recently:
+My daily drivers:

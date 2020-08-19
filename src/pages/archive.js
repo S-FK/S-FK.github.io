@@ -109,24 +109,23 @@ const ArchivePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Archive | Brittany Chiang</title>
-        <link rel="canonical" href="https://brittanychiang.com/archive" />
+        <title>Archive | Fahad Kamraan</title>
+        <link rel="canonical" href="https://s-fk.github.io/archive" />
       </Helmet>
 
       <StyledMainContainer>
         <header ref={revealTitle}>
           <h1 className="big-title">Archive</h1>
-          <p className="subtitle">A big list of things I’ve worked on</p>
+          <p className="subtitle">Blog's which I have written</p>
         </header>
 
         <StyledTableContainer ref={revealTable}>
           <StyledTable>
             <thead>
               <tr>
-                <th>Year</th>
+                <th>Date</th>
                 <th>Title</th>
-                <th className="hide-on-mobile">Made at</th>
-                <th className="hide-on-mobile">Built with</th>
+                <th>Tech</th>
                 <th>Link</th>
               </tr>
             </thead>
@@ -148,10 +147,6 @@ const ArchivePage = ({ location, data }) => {
                       <td className="overline year">{`${new Date(date).getFullYear()}`}</td>
 
                       <td className="title">{title}</td>
-
-                      <td className="company hide-on-mobile">
-                        {company ? <span>{company}</span> : <span>—</span>}
-                      </td>
 
                       <td className="tech hide-on-mobile">
                         {tech.length > 0 &&
