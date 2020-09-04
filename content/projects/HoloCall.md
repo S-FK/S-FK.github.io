@@ -3,6 +3,8 @@ date: '2019-04-15'
 title: 'HoloCall'
 github: ''
 external: 'https://youtu.be/hMO7tfCsdAI'
+'ios': 'fdsfsdfdsfds'
+'android': 'fdsfsdsf'
 tech:
   - Python
   - Open CV
