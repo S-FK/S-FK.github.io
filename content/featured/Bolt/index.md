@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Bolt'
-cover: './Plant_coin.jpeg'
+cover: './bolt.jpg'
 external: 'https://youtu.be/LtUdKeV0-0A?t=26'
 tech:
   - Web App
